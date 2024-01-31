@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+
+}
+
+body {
+    background-image: url(./images/tiffany-nike-air-force-1-DZ1382-001-release-date.jpg);
+    background-repeat: no-repeat;
+    background-position-y: -100px;
+    background-size: cover;
+    background-position-x: center;
+}
+
+.container {
+    display: flex;
+    background: #25b8b8;
+    height: 40px;
+
+}
+
+.container div img {
+    padding-top: 7px;
+    padding-left: 9px;
+}
+
+.container_div{
+    display: flex;
+    align-items: center;
+}
+
+.ul {
+    display: flex;
+    list-style-type: none;
+    
+}
+
+.butcre{
+    padding-top: 7px;
+}
+
+.button{
+    background-color: #25b8b8;
+    border: none;
+}
+
+.li1{
+    list-style-type: none;
+}
+
+.a1{
+    text-decoration: none;
+    color: black;    
+}
+
+.a {
+    margin-left: 400px;
+    text-decoration: none;
+    color: black;    
+}
+
+
+.field{
+    padding-left: 400px;
+    padding-top: 80px;
+    color: #00ffff;
+    
+}
+
